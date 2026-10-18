@@ -2,7 +2,7 @@
 
 Portfólio profissional de **Pedro Perroni**, estudante de **Ciências de Dados e Negócios na ESPM**, interessado em oportunidades de estágio em **Dados, Data Analytics e Business Intelligence**.
 
-**Site:** [pedroperroni.github.io/portfolio](https://pedroperroni.github.io/portfolio/) *(disponível após ativar o GitHub Pages)*  
+**Site:** [pedroperroni.github.io/portfolio](https://pedroperroni.github.io/portfolio/)   
 **GitHub:** [@PedroPerroni](https://github.com/PedroPerroni)  
 **LinkedIn:** [Pedro Perroni](https://www.linkedin.com/in/pedro-perroni-66566625b/)
 

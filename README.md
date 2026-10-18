@@ -8,7 +8,7 @@ Portfólio profissional de **Pedro Perroni**, estudante de **Ciências de Dados 
 
 ## Sobre o projeto
 
-Site estático e responsivo que reúne apresentação profissional, competências técnicas e projetos acadêmicos. Desenvolvido com **HTML5, CSS3 e JavaScript**, sem dependências externas.
+Site estático e responsivo que reúne apresentação profissional, competências técnicas e projetos acadêmicos. Desenvolvido com **HTML, CSS e JavaScript**, sem dependências externas.
 
 ## Projetos em destaque
 
@@ -20,40 +20,6 @@ Site estático e responsivo que reúne apresentação profissional, competência
 | **Dashboards e visualizações** | Exploração e comunicação de dados, incluindo trabalhos com Tableau. |
 | **QAI Control** | Plataforma de governança do uso de IA, com mapa de risco de dependência que cruza uso, supervisão e qualidade. |
 | **SpringData** | Plataforma de cursos online por assinatura, com gestão de usuários, planos, fóruns, recompensas e regras de negócio. |
-
-> As ilustrações dos cards são decorativas. Links para repositórios e dashboards específicos serão adicionados à medida que forem publicados.
-
-## Estrutura de arquivos
-
-```text
-portfolio/
-├── index.html       # Conteúdo e estrutura do site
-├── style.css        # Estilos e responsividade
-├── script.js        # Atualização automática do ano no rodapé
-├── README.md        # Documentação
-├── .gitignore       # Arquivos ignorados pelo Git
-└── LICENSE          # Licença MIT
-```
-
-## Executar localmente
-
-1. Clone o repositório: `git clone https://github.com/PedroPerroni/portfolio.git` (após criá-lo).
-2. Abra `index.html` no navegador. Não é necessário instalar pacotes.
-
-## Publicar no GitHub Pages
-
-1. Crie um repositório **público** chamado `portfolio` na conta `PedroPerroni`.
-2. Envie os arquivos deste projeto para a **raiz** do repositório na branch `main`.
-3. Acesse **Settings → Pages → Build and deployment**.
-4. Em **Source**, escolha **Deploy from a branch**; selecione `main` e `/ (root)` e salve.
-5. Aguarde a publicação e confirme a URL exibida pelo GitHub Pages.
-
-## Próximos passos
-
-- Inserir links individuais para os repositórios dos projetos.
-- Adicionar capturas reais dos dashboards e aplicações, com autorização quando necessário.
-- Complementar cada projeto com contexto, contribuição individual, ferramentas e resultados.
-- Revisar as informações profissionais antes de divulgar o site.
 
 ## Licença
 
